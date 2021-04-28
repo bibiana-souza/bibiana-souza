@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bibiana
+- 👋 Hi, I’m Bibiana, this is my work repository with HCL Technologies :)
 - 👀 I’m interested in Javascript and Systems Design
 - 🌱 I’m currently learning C#
 
